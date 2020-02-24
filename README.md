@@ -1,3 +1,2 @@
 # Powershell-SNMP
-Powershell to install and configure SNMP
-Does what it says on the tin
+Powershell to install and configure SNMP on a Windows server. Installs SNMP feature, adds the current community string and restarts SNMP
